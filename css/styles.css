@@ -31,7 +31,7 @@ header{
     position : absolute;
     top : 350px;
     left : 8px;
-    width : 275px;
+    width : 16%;
     border : 4px solid black;
     background : lightblue;
     border-radius : 25px;
@@ -40,7 +40,7 @@ header{
     position : absolute;
     top : 700px;
     right : 8px;
-    width : 275px;
+    width : 16%;
     border : 4px solid black;
     background : lightblue;
     border-radius : 25px;
@@ -90,9 +90,9 @@ header{
     font-weight : bold;
     font-size : 20px;
 }
-.image1{
-    width : 576px;
-    height : 350px;
+.image{
+    width : 30%;
+    height : 300px;
 }
 #button{
     width : 30%;
@@ -110,4 +110,5 @@ header{
 footer{
     height : 100px;
     background : wheat;
+    text-align : left;
 }
